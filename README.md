@@ -13,9 +13,12 @@
 ## Tutorial
 
 ## Main Repo
+https://github.com/sd-fabric/fabric.git
 
 ## Page
+https://sd-fabric.github.io/
 
 ## Paper
+https://arxiv.org/abs/2307.10159
 
 ## Output
