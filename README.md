@@ -10,8 +10,6 @@
 | --- | --- |
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/fabric-colab/blob/main/fabric_colab.ipynb) | fabric_colab (Pro 😭)
 
-## Tutorial
-
 ## Main Repo
 https://github.com/sd-fabric/fabric.git
 
