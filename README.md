@@ -22,3 +22,7 @@ https://sd-fabric.github.io/
 https://arxiv.org/abs/2307.10159
 
 ## Output
+Before
+![before](https://github.com/camenduru/fabric-colab/assets/54370274/84f5ba1f-6622-4645-9894-30aaf02c2b48)
+After
+![after](https://github.com/camenduru/fabric-colab/assets/54370274/23a53b3f-e1dc-454d-9fd6-fb059cd4df50)
