@@ -8,7 +8,7 @@
 
 | Colab | Info
 | --- | --- |
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/fabric-colab/blob/main/fabric_colab.ipynb) | fabric_colab (Pro 😭)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/fabric-colab/blob/main/fabric_colab.ipynb) | fabric_colab (Pro 😭 we need 21GB)
 
 ## Main Repo
 https://github.com/sd-fabric/fabric.git
