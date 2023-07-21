@@ -8,7 +8,7 @@
 
 | Colab | Info
 | --- | --- |
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/fabric-colab/blob/main/fabric_colab.ipynb) | fabric_colab
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/fabric-colab/blob/main/fabric_colab.ipynb) | fabric_colab (Pro 😭)
 
 ## Tutorial
 
